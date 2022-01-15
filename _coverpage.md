@@ -3,8 +3,7 @@
 </p>
 <h1 align="center">Java学习笔记</h1>
 
-[Blog](https://www.kongxiao.top/)
-[GitHub](https://github.com/xiaokong0510)
+[GitHub](https://github.com/YuBWang)
 [开始阅读](README.md)
 
 
